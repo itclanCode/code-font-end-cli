@@ -1,5 +1,5 @@
 {
-  "name": "code-cli",
+  "name": "itclancode-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "code-cli": "index.js"
+    "itclancode-cli": "index.js"
   },
   "devDependencies": {
     "commander": "^7.2.0",
